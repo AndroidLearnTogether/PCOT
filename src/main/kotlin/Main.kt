@@ -9,5 +9,5 @@ fun main(args: Array<String>) {
     frame.add(button)
 
     frame.pack()
-    frame.isVisible = true;
+    frame.isVisible = true;//
 }
